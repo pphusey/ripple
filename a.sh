@@ -1,4 +1,4 @@
-#!/bin/sh
+sss!/bin/sh
 fdbhfjhsdbvhjkb
 fdbhfjhsdbvhjkb
 # An example hook script to verify what is about to be pushed.  Called by "git
